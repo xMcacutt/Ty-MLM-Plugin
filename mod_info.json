@@ -1,0 +1,15 @@
+{
+  "name": "Memory Leak Manager",
+  "dll_name": "Ty MLM Plugin",
+  "description": "Tool to view how much memory the game is using and roughly how long until the game will crash due to memory leak overlaid onto the game window.",
+  "version": "1.0.1",
+  "dependencies": [
+  ],
+  "conflicts": [
+    "Archipelago Client"
+  ],
+  "author": "xMcacutt",
+  "download_url": "https://github.com/xMcacutt/Ty-MLM-Plugin/releases/latest/download/Ty.MLM.Plugin.zip",
+  "icon_url": "https://raw.githubusercontent.com/xMcacutt/Ty-MLM-Plugin/refs/heads/master/favico.ico",
+  "last_updated": "2025-03-02"
+}
